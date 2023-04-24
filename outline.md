@@ -26,6 +26,7 @@ Student 1 : To be honest, I am so scared about AI replacing the need for me as a
 Pallas (Host) : Wow that was pretty intense. How do you respond?
 
 (Second Interview of scared teacher or student)
+
 (Debunk the fear)
 
 (Third Interview of scared teacher or student)
