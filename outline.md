@@ -9,9 +9,11 @@ Media: Talk Show Video with guest interviews
 
 ### Outline/Script:
 
-Show intro sequence displays "The Paisley Show"
+#### Show intro sequence displays "The Paisley Show"
 
-#### (Welcome guest to the show sequence)
+Pallas (Announcer) : Paisley Productions Present... The Paisley Show
+
+#### Welcome guest to the show
 Pallas (Host) : Hello welcome back everyone to the Paisley Show! Tonight we have a very special guest, Haylee Pierce. Haylee is an experineced computer science student with a lot of experience with AI. Today they are going to discuss with us their thoughts on AI in education. Hello, how are you feeling today?
 
 Haylee (CS Student Guest) : I am feeling great. 
@@ -46,11 +48,17 @@ Pallas (Host) :  Wow that's super good news to hear. I was really worried about 
 
 Pallas (Inteviewer) : What are your feelings about AI in education?
 
-Student 2 : AI is so scary and confusing and I hate how they are trying to steal all our information to train them things. And I don't even know how they could be impacting the environment.
+Student 2 : AI is so scary and confusing and I hate how they are trying to steal all our information to train them things. And I don't even know how they could be impacting the environment. It's scary to think that big AI coorporations have so much data and power over us.
 
 
 
 #### Final Questions from Host
+
+Pallas (Host) : Lastly, I have a few questions to ask you Haylee.
+
+Haylee (CS Student Guest) : I'd love too, ask away!
+
+
 
 
 
