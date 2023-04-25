@@ -28,7 +28,7 @@ Student 1 : To be honest, I am so *scared* about AI replacing the need for me as
 
 Pallas (Host) : Wow that was pretty intense. How do you respond?
 
-Haylee (CS Student Guest) : Well, while their fears are valid, I would have to comment that there will always be a demand for people to fix and debug the code itself. AI can only be as good as you train it to be, leaving that necessary human element.
+Haylee (CS Student Guest) : Well, while their fears are valid, I would have to comment that there will always be a demand for people to fix and debug the code itself. AI can only be as good as you train it to be, leaving that necessary human element. AI is actually creating demand for new jobs not including the AI coders themselves such as prompt engineers, avatar designers, 3-D printing engineers (Class 5/19/2023 14.Self-supervised.pdf). 
 
 Pallas (Host) : Ok that makes a lot of sense. Now let's see how the professors are feeling.
 
@@ -48,15 +48,21 @@ Pallas (Host) :  Wow that's super good news to hear. I was really worried about 
 
 Pallas (Inteviewer) : What are your feelings about AI in education?
 
-Student 2 : AI is so scary and confusing and I hate how they are trying to steal all our information to train them things. And I don't even know how they could be impacting the environment. It's scary to think that big AI coorporations have so much data and power over us.
+Student 2 : AI is so scary and confusing and I hate how they are trying to steal all our information to train them goofy things. And I don't even know how they could be impacting the environment but I'm sure it ain'g good. It's scary to think that big AI coorporations have so much data and power over us.
+
+Pallas (Inteviewer) : 
 
 
 
 #### Final Questions from Host
 
-Pallas (Host) : Lastly, I have a few questions to ask you Haylee.
+Pallas (Host) : Lastly, I have one last question to ask you Haylee.
 
-Haylee (CS Student Guest) : I'd love too, ask away!
+Haylee (CS Student Guest) : I'd love too answer, ask away!
+
+Pallas (Host) : We have heard a lot about people's fears of AI in education... so we don't end on a sour note are there any postives you can think of?
+
+Haylee (CS Student Guest) : Oh yes! There are plenty! Computer scienctists have been implimenting tons of exciting ways to use AI to help improve educataion. One example is adaptive AI that will tailor itslef to the students learning style and what they do or don't know. AI is also improving students time management abilities with sceduling applications. (Source: https://onlinedegrees.sandiego.edu/artificial-intelligence-education/) 
 
 
 
