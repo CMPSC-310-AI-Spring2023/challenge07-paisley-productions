@@ -48,11 +48,17 @@ Pallas (Host) :  Wow that's super good news to hear. I was really worried about 
 
 Pallas (Inteviewer) : What are your feelings about AI in education?
 
-Student 2 : AI is so scary and confusing and I hate how they are trying to steal all our information to train them goofy things. And I don't even know how they could be impacting the environment but I'm sure it ain'g good. It's scary to think that big AI coorporations have so much data and power over us.
+Student 2 : AI is so scary and confusing and I hate how they are trying to steal all our information to train them goofy things. It has to steal it's answers from somewhere. And it's scary to think that big AI coorporations have so much data and power over us.
 
-Pallas (Inteviewer) : 
+Pallas (Inteviewer) : So privacy and data farming is the biggest issues for you, would you say.
 
+Student 2 : Absolutely, yes. 
 
+Pallas (Host) : Ok, so is privacy a legitmate concern when it comes to using AI in education? And they do bring up a good point about how are these platforms getting their answers? 
+
+Haylee (CS Student Guest) : Actually privacy is a real and legitmate concern for users of all types of AI, not just ones in education. People have the right to privacy in all aspects of their time online. That being said people do still have to be careful what information they do and don't give out online. It is super important for the computer scienctists writing the AI to prioritze user privacy and transparency in their policies. AI is often trained off of user input in addition to the initial training set so it is important that we support government policies that enforce transparency between the users and the creators. (Source: https://www.thedigitalspeaker.com/privacy-age-ai-risks-challenges-solutions/#:~:text=The%20Issue%20of%20Violation%20of%20Privacy&text=One%20of%20the%20primary%20challenges,as%20identity%20theft%20or%20cyberbullying.) 
+
+Pallas (Host) : That's fair and we should also keep in mind that an ethical programmer makes sure the data they are training off of has the consent of the intitial creator to use.
 
 #### Final Questions from Host
 
@@ -62,15 +68,8 @@ Haylee (CS Student Guest) : I'd love too answer, ask away!
 
 Pallas (Host) : We have heard a lot about people's fears of AI in education... so we don't end on a sour note are there any postives you can think of?
 
-Haylee (CS Student Guest) : Oh yes! There are plenty! Computer scienctists have been implimenting tons of exciting ways to use AI to help improve educataion. One example is adaptive AI that will tailor itslef to the students learning style and what they do or don't know. AI is also improving students time management abilities with sceduling applications. (Source: https://onlinedegrees.sandiego.edu/artificial-intelligence-education/) 
-
-
-
-
-
-
-
+Haylee (CS Student Guest) : Oh yes! There are plenty! Computer scienctists have been implimenting tons of exciting ways to use AI to help improve educataion. One example is adaptive AI that will tailor itslef to the students learning style and what they do or don't know. AI is also improving students time management abilities with sceduling applications. Programmers are also working with AI to improve education accessibility with programs specially designed to help students with their pacticular needs. (Source: https://onlinedegrees.sandiego.edu/artificial-intelligence-education/) 
 
 #### Thank you for coming sequence and recap
 
-
+Pallas (Host) : Thank you for this information, and it was a pleasure having you. Thank you for giving us all a little more insight into AI technology. Join us next time on the Paisley Show where we will be discussing recurrent neural networks.
